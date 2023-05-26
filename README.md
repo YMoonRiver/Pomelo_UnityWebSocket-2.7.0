@@ -1,3 +1,9 @@
+参考：UnityWebSocket 2.7.0 for All Platforms
+https://github.com/psygames/UnityWebSocket
+
+自己修改的 Pomelo 客户端，Unity All Platforms
+它的服务器是 cherry 一款分布式的golang游戏服务器框架, 下载地址：https://github.com/cherry-game/cherry
+支持json/protobuf
 
 [(English)](README_EN.md)
 
